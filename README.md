@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trisit Charoenparipat
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Trisit Charoenparipat
 =============================================================================================================================================
 
 I am Frank from Thailand and I'm university student from King Mongkut's Institute of Technology Ladkrabang or KMITL. I'm still learning coding and still not good at it but I will try to do so.
