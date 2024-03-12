@@ -6,7 +6,7 @@ I am Frank from Thailand and I'm university student from King Mongkut's Institut
 * 🌍  I'm based in Bangkok
 * 🔭 I’m currently working on Shoe-FactoryManagement
 * ✉️  You can contact me at [Trisit.93@gmail.com](mailto:Trisit.93@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm currently learning Java
 
 <a href="https://www.github.com/KawaiiZT" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KawaiiZT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
